@@ -1,0 +1,282 @@
+[
+ {
+  "level": "A1",
+  "num": "01",
+  "file": "a1-01-pronunciation.html",
+  "zh": "發音與字母",
+  "en": "Pronunciation & Alphabet",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "02",
+  "file": "a1-02-greetings.html",
+  "zh": "問候語與自我介紹",
+  "en": "Greetings & Introductions",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "03",
+  "file": "a1-03-numbers.html",
+  "zh": "數字 0–100",
+  "en": "Numbers 0–100",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "04",
+  "file": "a1-04-nouns-articles.html",
+  "zh": "名詞的性與數、冠詞",
+  "en": "Gender, Number & Articles",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "05",
+  "file": "a1-05-ser-estar.html",
+  "zh": "ser 與 estar",
+  "en": "Ser vs. Estar",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "06",
+  "file": "a1-06-present-regular.html",
+  "zh": "現在式規則動詞",
+  "en": "Present Tense: Regular Verbs",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "07",
+  "file": "a1-07-family-adjectives.html",
+  "zh": "家人與描述人物",
+  "en": "Family & Adjectives",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "08",
+  "file": "a1-08-time-dates.html",
+  "zh": "時間、星期、月份",
+  "en": "Time, Days & Months",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "09",
+  "file": "a1-09-food-shopping.html",
+  "zh": "點餐與購物",
+  "en": "Food & Shopping",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "10",
+  "file": "a1-10-directions.html",
+  "zh": "問路與交通",
+  "en": "Directions & Transport",
+  "ready": true
+ },
+ {
+  "level": "A1",
+  "num": "11",
+  "file": "a1-11-present-irregular.html",
+  "zh": "不規則動詞 tener / ir / hacer",
+  "en": "Irregular Verbs",
+  "ready": false
+ },
+ {
+  "level": "A1",
+  "num": "12",
+  "file": "a1-12-a1-review.html",
+  "zh": "A1 複習與綜合測驗",
+  "en": "A1 Review",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "01",
+  "file": "a2-01-reflexive-routine.html",
+  "zh": "反身動詞與日常作息",
+  "en": "Reflexive Verbs & Routine",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "02",
+  "file": "a2-02-present-perfect.html",
+  "zh": "完成式",
+  "en": "Present Perfect",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "03",
+  "file": "a2-03-preterite.html",
+  "zh": "簡單過去式",
+  "en": "Preterite",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "04",
+  "file": "a2-04-imperfect.html",
+  "zh": "未完成過去式",
+  "en": "Imperfect",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "05",
+  "file": "a2-05-past-compare.html",
+  "zh": "過去式比較",
+  "en": "Preterite vs. Imperfect",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "06",
+  "file": "a2-06-object-pronouns.html",
+  "zh": "受詞代名詞",
+  "en": "Object Pronouns",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "07",
+  "file": "a2-07-future.html",
+  "zh": "未來式與 ir a",
+  "en": "Future Tense",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "08",
+  "file": "a2-08-comparatives.html",
+  "zh": "比較級與最高級",
+  "en": "Comparatives & Superlatives",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "09",
+  "file": "a2-09-travel-hotel.html",
+  "zh": "旅行與訂房",
+  "en": "Travel & Hotels",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "10",
+  "file": "a2-10-health.html",
+  "zh": "健康與看醫生",
+  "en": "Health & Doctor",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "11",
+  "file": "a2-11-imperative.html",
+  "zh": "命令式",
+  "en": "Imperative",
+  "ready": false
+ },
+ {
+  "level": "A2",
+  "num": "12",
+  "file": "a2-12-a2-review.html",
+  "zh": "A2 複習與綜合測驗",
+  "en": "A2 Review",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "01",
+  "file": "b1-01-subjunctive-present.html",
+  "zh": "虛擬式現在式入門",
+  "en": "Present Subjunctive",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "02",
+  "file": "b1-02-emotions-wishes.html",
+  "zh": "表達情感與願望",
+  "en": "Emotions & Wishes",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "03",
+  "file": "b1-03-conditional.html",
+  "zh": "條件式",
+  "en": "Conditional",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "04",
+  "file": "b1-04-past-perfect.html",
+  "zh": "過去完成式",
+  "en": "Past Perfect",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "05",
+  "file": "b1-05-if-clauses.html",
+  "zh": "si 條件句",
+  "en": "If-Clauses",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "06",
+  "file": "b1-06-relative-pronouns.html",
+  "zh": "關係代名詞",
+  "en": "Relative Pronouns",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "07",
+  "file": "b1-07-passive-se.html",
+  "zh": "被動語態與 se",
+  "en": "Passive & Impersonal se",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "08",
+  "file": "b1-08-connectors.html",
+  "zh": "連接詞與銜接語",
+  "en": "Connectors",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "09",
+  "file": "b1-09-opinions.html",
+  "zh": "表達意見與討論",
+  "en": "Opinions & Discussion",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "10",
+  "file": "b1-10-work.html",
+  "zh": "工作與面試",
+  "en": "Work & Interviews",
+  "ready": false
+ },
+ {
+  "level": "B1",
+  "num": "11",
+  "file": "b1-11-b1-review.html",
+  "zh": "B1 綜合複習",
+  "en": "B1 Review",
+  "ready": false
+ }
+]

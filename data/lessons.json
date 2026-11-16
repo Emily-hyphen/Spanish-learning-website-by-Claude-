@@ -29,7 +29,7 @@
   "file": "a1-04-nouns-articles.html",
   "zh": "名詞的性與數、冠詞",
   "en": "Gender, Number & Articles",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -37,7 +37,7 @@
   "file": "a1-05-ser-estar.html",
   "zh": "ser 與 estar",
   "en": "Ser vs. Estar",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -45,7 +45,7 @@
   "file": "a1-06-present-regular.html",
   "zh": "現在式規則動詞",
   "en": "Present Tense: Regular Verbs",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -53,7 +53,7 @@
   "file": "a1-07-family-adjectives.html",
   "zh": "家人與描述人物",
   "en": "Family & Adjectives",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -61,7 +61,7 @@
   "file": "a1-08-time-dates.html",
   "zh": "時間、星期、月份",
   "en": "Time, Days & Months",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -69,7 +69,7 @@
   "file": "a1-09-food-shopping.html",
   "zh": "點餐與購物",
   "en": "Food & Shopping",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
@@ -77,7 +77,7 @@
   "file": "a1-10-directions.html",
   "zh": "問路與交通",
   "en": "Directions & Transport",
-  "ready": false
+  "ready": true
  },
  {
   "level": "A1",
